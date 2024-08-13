@@ -21,6 +21,7 @@ const config: Config = {
         transparent: "transparent",
         current: "currentColor",
         shark: "#212529",
+        sands: "#F5F5F5",
       },
     },
   },
